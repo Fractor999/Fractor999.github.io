@@ -1,0 +1,38 @@
+header {
+    background-image: url(D:/Imagenes/Whatsapp%20Duvar%20Kağıtları!%20Cep%20Telefonunuzun%20Çehresini%20Değiştirecek,%20Birbirinden%20Güzel%20111%20Arka%20Plan%20Önerisi.jpeg);
+    padding: 50px;
+    }
+    #Fractor999 {
+    text-align: center;
+    color: aliceblue;
+    }
+    #codigo{
+        background-image: url(D:/Imagenes/imagen.jpeg);
+    }
+    nav ul li {  
+        text-align: center;
+        display: inline;  
+        margin: 0 15px;  
+    }  
+    #extras {  
+        text-decoration-color: #ddd;
+        margin-bottom: 20px;  
+        padding: 15px;  
+        border: 1px solid #ddd;  
+        border-radius: 5px;  
+    }  
+    nav ul {  
+        list-style: none;  
+        padding: 0;  
+    }  
+    nav ul li {  
+        display: inline;  
+        margin: 0 15px;  
+    }  
+    nav ul li a {  
+        color: white;  
+        text-decoration: none;  
+    }  
+    nav ul li a:hover {  
+        text-decoration: underline;  
+    } 
